@@ -1,4 +1,4 @@
-# Projeto de Portfólio: Pipeline de Análise de Performance de Modelos de ML
+# Pipeline de Análise de Performance de Modelos de ML
 
 Este repositório demonstra um pipeline completo de Data Science para avaliar e comparar a performance do algoritmo de **Árvore de Decisão (Decision Tree)** em oito conjuntos de dados distintos e heterogêneos.
 
