@@ -1,0 +1,8 @@
+# Ignorar todos os arquivos CSV (exceto os pequenos que você queira manter)
+*.csv
+
+# Se você quiser manter os CSVs pequenos (como iris, heart, etc.),
+# liste os grandes que você quer ignorar:
+covertype.csv
+wine.csv
+git rm --cached covertype.csv
